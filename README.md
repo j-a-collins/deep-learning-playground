@@ -1,2 +1,2 @@
-# deep-learning-playground
-Rips of my CUDA env
+# Deep Learning Playground
+Rips from my CUDA env
